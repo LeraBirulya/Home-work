@@ -1,3 +1,3 @@
 print("Enter your name")
-name = input()
+name = Irina
 print("Hello," + " " + name)
